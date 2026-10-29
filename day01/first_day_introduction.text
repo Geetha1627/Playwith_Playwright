@@ -1,0 +1,39 @@
+1. what is playwright?
+   Playwright is a robust, open-source framework designed for end-to-end testing of modern web applications.
+   It enables developers to automate browser interactions across multiple platforms, browsers, and 
+   programming languages, ensuring comprehensive test coverage and reliability.
+
+   Playwright supports all major rendering engines, including Chromium, WebKit, and Firefox, 
+   making it a cross-browser solution.
+
+   It is also cross-platform, allowing tests to run seamlessly on Windows, Linux, and macOS, 
+   whether locally or in CI environments.
+
+   Additionally, it supports multiple programming languages such as TypeScript, JavaScript, Python, .NET, 
+   and Java.
+
+2. Key Features of Playwrite
+    - Cross-Browser and Cross-Platform: 
+    Playwright works with all modern browsers and platforms, including headless and headed modes.
+
+    -Mobile Web Testing: 
+    It provides native emulation for mobile browsers like Google Chrome for Android and Mobile Safari.
+
+    -Resilient Testing: 
+    Features like auto-waiting and web-first assertions reduce flaky tests by ensuring elements are actionable before performing actions.
+
+    -Full Isolation: 
+    Each test runs in a separate browser context, equivalent to a fresh browser profile, ensuring complete test isolation with minimal overhead.
+
+    -Powerful Tooling: 
+    Includes tools like Codegen for generating tests by recording actions, Playwright Inspector for debugging, and Trace Viewer for analyzing test failures.
+
+3. what is node.js?
+    Node.js is a runtime environment that allows developers to execute JavaScript code outside the browser, 
+    enabling the creation of server-side applications, command-line tools, and more.
+
+4. what is npm?
+    npm (Node Package Manager) is the default package manager for Node.js, used to manage dependencies, 
+    libraries, and scripts for Node.js projects.
+
+    
